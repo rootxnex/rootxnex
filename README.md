@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Visitors+🤗;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7971E&width=435&lines=Hello+Visitors+🤗;Welcome+to+my+GitHub!;Cybersecurity+%7C+Flutter+Developer+%7C+Ethical+Hacker)](https://git.io/typing-svg)
 
 <h1 align="center">Hi, I'm Dhanushkumar! 👋</h1>
 
@@ -11,31 +11,33 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **B.Tech in Information Technology** at **KSR Institute for Engineering and Technology**.
+- 🎓 Pursuing **B.Tech Information Technology** at **KSR Institute for Engineering and Technology**.
 - 💡 Passionate about **Ethical Hacking, Bug Bounty Hunting, and App Development**.
 - 🔒 Cybersecurity Intern at **Prodigy InfoTech**.
 - 🧑‍💻 Active **Google Developer Student Club (GDSC)** Member.
-- 💬 Skilled with **Nmap, SQLMap, Wireshark, Flutter, Dart, Python**.
-- 📫 Reach me: dhanush.kumar.m006@gmail.com | [LinkedIn](https://www.linkedin.com/in/dhanushkumar006)
+- 💬 Tools I love: `Nmap`, `SQLMap`, `Wireshark`, `Flutter`, `Dart`, `Python`.
+- 📫 Reach me at: **dhanush.kumar.m006@gmail.com**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushkumar006)  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/dhanushkumar006)
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages:** Python, Java, Dart, SQL  
-- **Frameworks:** Flutter, TensorFlow  
-- **Tools:** Nmap, Burp Suite, Wireshark, Git, GitHub  
-- **Platforms:** Parrot OS, Linux, Firebase, Google Cloud  
+- 💻 **Languages:** Python, Java, Dart, SQL  
+- ⚙️ **Frameworks:** Flutter, TensorFlow  
+- 🔧 **Tools:** Nmap, Burp Suite, Wireshark, Git, GitHub  
+- 🖥️ **Platforms:** Parrot OS, Linux, Android, Firebase, Google Cloud  
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- ✅ **Google Cloud - GenAI Study Jam** *(Skill Badges Completed)*  
-- ✅ **Cybersecurity Internship - Prodigy InfoTech**  
-- ✅ **Coursera Cybersecurity Course**  
-- ⭐ **CodeChef 1-Star Coder**  
-- 💡 **CTF Organizer & Cybersecurity Lead — GDG KSRIET**  
+- ✅ **Google Cloud - GenAI Study Jam** (Skill Badges Completed)
+- ✅ **Cybersecurity Internship - Prodigy InfoTech**
+- ✅ **Coursera Cybersecurity Courses**
+- ⭐ **CodeChef 1-Star Coder**
+- 💡 **CTF Organizer & Cybersecurity Lead — GDG KSRIET**
 
 ---
 
@@ -52,33 +54,21 @@
 
 ---
 
-## 🧑‍💻 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/dhanushkumar006)  
-- [GitHub](https://github.com/dhanushkumar006)  
-- 📬 Email: dhanush.kumar.m006@gmail.com  
-
----
-
-## ⚡ Fun Fact
-
-*“Stay curious, stay ethical.”*
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhanushkumar006/dhanushkumar006/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dhanushkumar006/dhanushkumar006/output/github-snake.svg" />
 </picture>
 
 ---
 
-<!-- GitHub Profile Credits -->
+## 📫 Connect With Me
 
-- Typing SVG: [DenverCoder1](https://github.com/DenverCoder1/readme-typing-svg)  
-- Badges: [Shields.io](https://shields.io)  
-- GitHub Stats: [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)  
-- Contribution Snake: [Platane](https://github.com/Platane/snk)
+- 📧 Email: **dhanush.kumar.m006@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhanushkumar006)
+- 💻 [GitHub](https://github.com/dhanushkumar006)
+
+---
+
+**_"Stay curious, stay ethical."_**
