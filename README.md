@@ -11,3 +11,5 @@ dhanushkumar006/dhanushkumar006 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanushkumar006)](https://github.com/dhanushkumar006/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkumar006)](https://github.com/dhanushkumar006/github-readme-stats)
