@@ -1,5 +1,4 @@
-![visitor badge](https://dhanushkumar006.laobi.icu/badge?page_id=jwenjian.dhanushkumar006&left_color=red&right_color=green) 
-RGB colors eg: #595959 needs to be %23595959 in the URL
+![visitor badge](https://dhanushkumar006.laobi.icu/badge?page_id=jwenjian.dhanushkumar006&left_color=red&right_color=green)RGB colors eg: #595959 needs to be %23595959 in the URL
 - 👋 Hi, I’m @dhanushkumar006
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
