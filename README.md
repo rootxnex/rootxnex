@@ -39,18 +39,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-- [PRODIGY-CS-CYBERSECURITY-main](https://github.com/dhanushkumar006/PRODIGY-CS-CYBERSECURITY-main)  
-  *A collection of Cybersecurity tools built for hands-on learning.*
-
-- **Freelancing App Prototype (Flutter)** *(In Progress)*  
-  *A modern platform for freelancing built with Flutter.*
-
-- **Message Maintainer App** *(In Progress)*  
-  *Secure message storage & management.*
-
----
 
 ## 📊 GitHub Stats
 
