@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hello+visitors🤗;welcome)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Visitors+🤗;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <h1 align="center">Hi, I'm Dhanushkumar! 👋</h1>
 
@@ -11,44 +11,44 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **B.Tech Information Technology** at **KSR Institute for Engineering and Technology**.
+- 🎓 Pursuing **B.Tech in Information Technology** at **KSR Institute for Engineering and Technology**.
 - 💡 Passionate about **Ethical Hacking, Bug Bounty Hunting, and App Development**.
 - 🔒 Cybersecurity Intern at **Prodigy InfoTech**.
 - 🧑‍💻 Active **Google Developer Student Club (GDSC)** Member.
-- 💬 I enjoy working with tools like **Nmap, SQLMap, Wireshark, Flutter, Dart, Python**.
-- 📫 How to reach me: dhanush.kumar.m006@gmail.com | [LinkedIn](https://www.linkedin.com/in/dhanushkumar006)
+- 💬 Skilled with **Nmap, SQLMap, Wireshark, Flutter, Dart, Python**.
+- 📫 Reach me: dhanush.kumar.m006@gmail.com | [LinkedIn](https://www.linkedin.com/in/dhanushkumar006)
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages:** Python, Java, Dart, SQL
-- **Frameworks:** Flutter, TensorFlow
-- **Tools:** Nmap, Burp Suite, Wireshark, Git, GitHub
-- **Platforms:** Parrot OS, Linux, Android, Firebase, Google Cloud
+- **Languages:** Python, Java, Dart, SQL  
+- **Frameworks:** Flutter, TensorFlow  
+- **Tools:** Nmap, Burp Suite, Wireshark, Git, GitHub  
+- **Platforms:** Parrot OS, Linux, Firebase, Google Cloud  
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- ✅ **Google Cloud - GenAI Study Jam** (Skill Badges Completed)
-- ✅ **Cybersecurity Internship - Prodigy InfoTech**
-- ✅ **Coursera Cybersecurity Courses**
-- ⭐ **CodeChef 1-Star Coder**
-- 💡 **CTF Organizer & Cybersecurity Lead — GDG KSRIET**
+- ✅ **Google Cloud - GenAI Study Jam** *(Skill Badges Completed)*  
+- ✅ **Cybersecurity Internship - Prodigy InfoTech**  
+- ✅ **Coursera Cybersecurity Course**  
+- ⭐ **CodeChef 1-Star Coder**  
+- 💡 **CTF Organizer & Cybersecurity Lead — GDG KSRIET**  
 
 ---
 
 ## 📂 Featured Projects
 
-- **PRODIGY-CS-CYBERSECURITY-main**  
-  Cybersecurity toolset: [GitHub Repo](https://github.com/dhanushkumar006/PRODIGY-CS-CYBERSECURITY-main)
+- [PRODIGY-CS-CYBERSECURITY-main](https://github.com/dhanushkumar006/PRODIGY-CS-CYBERSECURITY-main)  
+  *A collection of Cybersecurity tools built for hands-on learning.*
 
-- **Freelancing App Prototype (Flutter)**  
-  *(In Progress)* — A modern freelancing platform built for reliability.
+- **Freelancing App Prototype (Flutter)** *(In Progress)*  
+  *A modern platform for freelancing built with Flutter.*
 
-- **Message Maintainer App**  
-  *(In Progress)* — Smart message storage and security.
+- **Message Maintainer App** *(In Progress)*  
+  *Secure message storage & management.*
 
 ---
 
@@ -64,32 +64,33 @@
 
 ---
 
-## 📫 Connect With Me
+## 🧑‍💻 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/dhanushkumar006)
-- [GitHub](https://github.com/dhanushkumar006)
-- Email: dhanush.kumar.m006@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/dhanushkumar006)  
+- [GitHub](https://github.com/dhanushkumar006)  
+- 📬 Email: dhanush.kumar.m006@gmail.com  
 
 ---
 
+## ⚡ Fun Fact
+
 *“Stay curious, stay ethical.”*
 
-- 👋 Hi, I’m @dhanushkumar006
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🐍 Contribution Snake
 
 <picture>
-<source media="(prefers-color-scheme: dark)"srcset="github-snake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="github-snake.svg" /><img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
-    
-<!---
-dhanushkumar006/dhanushkumar006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanushkumar006)](https://github.com/dhanushkumar006/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkumar006)](https://github.com/dhanushkumar006/github-readme-stats)
+---
+
+<!-- GitHub Profile Credits -->
+
+- Typing SVG: [DenverCoder1](https://github.com/DenverCoder1/readme-typing-svg)  
+- Badges: [Shields.io](https://shields.io)  
+- GitHub Stats: [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)  
+- Contribution Snake: [Platane](https://github.com/Platane/snk)
