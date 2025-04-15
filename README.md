@@ -52,14 +52,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushkumar006&theme=github-dark" alt="GitHub Activity Graph">
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhanushkumar006/dhanushkumar006/output/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dhanushkumar006/dhanushkumar006/output/github-snake.svg" />
-</picture>
 
 ---
 
