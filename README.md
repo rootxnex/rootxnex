@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7971E&width=435&lines=Hello+Visitors+🤗;Welcome+to+my+GitHub!;Cybersecurity+%7C+Flutter+Developer+%7C+Ethical+Hacker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7971E&width=435&lines=Hello+Visitors+🤗;Welcome+to+my+GitHub!;Cybersecurity+%7C+Developer+%7C+Ethical+Hacker)](https://git.io/typing-svg)
 
 <h1 align="center">Hi, I'm Dhanushkumar! 👋</h1>
 
