@@ -13,7 +13,6 @@
 
 - 🎓 Pursuing **B.Tech Information Technology** at **KSR Institute for Engineering and Technology**.
 - 💡 Passionate about **Ethical Hacking, Bug Bounty Hunting, and App Development**.
-- 🔒 Cybersecurity Intern at **Prodigy InfoTech**.
 - 🧑‍💻 Active **Google Developer Student Club (GDSC)** Member.
 - 💬 Tools I love: `Nmap`, `SQLMap`, `Wireshark`, `Flutter`, `Dart`, `Python`.
 - 📫 Reach me at: **dhanush.kumar.m006@gmail.com**  
