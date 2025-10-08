@@ -14,7 +14,7 @@
 - 🎓 Pursuing **B.Tech Information Technology** at **KSR Institute for Engineering and Technology**.
 - 💡 Passionate about **Ethical Hacking, Bug Bounty Hunting, and App Development**.
 - 🧑‍💻 Active **Google Developer Student Club (GDSC)** Member.
-- 💬 Tools I love: `Nmap`, `SQLMap`, `Wireshark`, `Flutter`, `Dart`, `Python`.
+- 💬 Tools I love: `Nmap`, `SQLMap`, `Wireshark`, `Flutter`, `Python`.
 - 📫 Reach me at: **dhanush.kumar.m006@gmail.com**  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushkumar006)  
   [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/dhanushkumar006)
