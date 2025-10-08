@@ -24,7 +24,7 @@
 ## 🧰 Tech Stack
 
 - 💻 **Languages:** Python, Java, Dart, SQL  
-- ⚙️ **Frameworks:** Flutter, TensorFlow  
+- ⚙️ **Frameworks:**TensorFlow  
 - 🔧 **Tools:** Nmap, Burp Suite, Wireshark, Git, GitHub  
 - 🖥️ **Platforms:** Parrot OS, Linux, Android, Firebase, Google Cloud  
 
