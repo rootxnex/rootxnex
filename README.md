@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7971E&width=435&lines=Hello+Visitors+🤗;Welcome+to+my+GitHub!;Cybersecurity+%7C+Developer+%7C+Ethical+Hacker)](https://git.io/typing-svg)
 
-<h1 align="center">Hi, I'm Dhanushkumar! 👋</h1>
+<h1 align="center">Hi, I'm Rootxnex! 👋</h1>
 
 <p align="center">
   <b>Cybersecurity Enthusiast | Aspiring Ethical Hacker</b><br>
@@ -16,7 +16,6 @@
 - 🧑‍💻 Active **Google Developer Student Club (GDSC)** Member.
 - 💬 Tools I love: `Nmap`, `SQLMap`, `Wireshark`, `Python`.
 - 📫 Reach me at: **dhanush.kumar.m006@gmail.com**  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushkumar006)  
   [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/dhanushkumar006)
 
 ---
