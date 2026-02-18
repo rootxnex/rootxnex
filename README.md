@@ -14,40 +14,7 @@ status: Building Elite Skillset
 mission: Break → Understand → Secure
 
 
-B.Tech IT — KSR Institute
 
-Cybersecurity Lead (GDG)
-
-CTF Organizer
-
-Bug bounty learner
-
-Security tool builder
-
-Founder mindset
-
-⚔️ SPECIALIZATIONS
-Red Team
-
-Recon & Enumeration
-
-Web exploitation
-
-Vulnerability chaining
-
-Attack surface mapping
-
-CTF infrastructure
-
-Blue Team Awareness
-
-Secure coding
-
-Threat detection
-
-Log analysis
-
-Defensive scripting
 
 🧰 TOOLKIT
 Recon        : Nmap, Amass
@@ -66,31 +33,6 @@ AI/ML:       TensorFlow
 Cloud:       Google Cloud
 Platforms:   Linux | Android
 
-🏆 ACHIEVEMENTS
-
-Google Cloud GenAI Study Jam
-
-Cybersecurity Internship
-
-Coursera Security Courses
-
-CodeChef ⭐ 1-Star
-
-GDG Cybersecurity Lead
-
-CTF Event Organizer
-
-🧪 CURRENT OPERATIONS
-
-Bug bounty labs
-
-Exploit practice
-
-Security automation tools
-
-AI + cybersecurity
-
-Startup security products
 
 📊 SYSTEM METRICS
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rootxnex&show_icons=true&theme=tokyonight&hide_border=true"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootxnex&theme=tokyonight&hide_border=true"/> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rootxnex&theme=github-compact"/> </p>
@@ -107,13 +49,9 @@ Think like an attacker. Build like an engineer.
 🧬 FUTURE TARGETS
 
 Elite bug bounty hunter
-
 Red team specialist
-
 Security product founder
-
 AI-driven cybersecurity tools
-
 Cresnex security ecosystem
 
 > shutting down display...
