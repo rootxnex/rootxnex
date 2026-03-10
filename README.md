@@ -5,6 +5,11 @@
 > establishing secure channel...
 > access granted
 
+
+
+curl -L -o rooster_file "https://media1.tenor.com/m/YdkfKjz9vcEAAAAd/chicken-chicken-bro.gif"
+
+
 <h1 align="center">rootxnex</h1> <p align="center"> Offensive Security • Red Team • Builder </p>
 🧠 OPERATOR PROFILE
 role: Cybersecurity Engineer
