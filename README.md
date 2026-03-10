@@ -10,9 +10,6 @@
          
 <h1 align="center">Root Access Granted</h1>
 
-<p align="center">
-> booting profile... > loading modules... > establishing secure channel... > access granted
-</p>
 
 <br>
 <br>
