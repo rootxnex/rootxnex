@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/YdkfKjz9vcEAAAAd/chicken-chicken-bro.gif" width="250">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUz7PrIWiQ1Z37wsNnYTA3Lsyh1lOzWWsfmh8jAHzRlA&s=10" width="250">
 </p>
 
 
