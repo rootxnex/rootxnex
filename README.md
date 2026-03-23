@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img src="https://tenor.com/bjtO2.gif" width="250">
+  <img src="[https://tenor.com/bjtO2.gif](https://media.tenor.com/FTJ-5_TLOfMAAAAj/chicken-chicken-bro.gif)" width="250">
 </p>
 
 
