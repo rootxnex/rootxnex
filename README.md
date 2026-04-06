@@ -21,7 +21,7 @@
 
 <br>
 
-<table align="center" width="100%" style="border-collapse: collapse;">
+<table align="center" width="100%" style="border-collapse: collapse;">. 
   <tr>
     <td width="33%" valign="top" style="padding: 15px; border: 1px solid #00B8D9; border-radius: 8px;">
       <h3 align="center" style="color: #00B8D9;">🧠 BACKGROUND</h3>
