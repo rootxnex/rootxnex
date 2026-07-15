@@ -43,8 +43,6 @@
 
 <br>
 
-<h2 align="center">💻 TECH STACK & 🧰 TOOLKIT</h2>
-
 <h2 align="center">💻 STACK & TOOLKIT</h2>
 
 <div align="center">
