@@ -99,8 +99,8 @@
 <h2 align="center">📡 CONNECT</h2>
 
 <div align="center">
-  <a href="mailto:dhanush.kumar.m006@gmail.com">
-    <img src="https://img.shields.io/badge/dhanush.kumar.m006@gmail.com-0A1F44?style=for-the-badge&logo=gmail&logoColor=00B8D9&border=00B8D9" />
+  <a href="mailto:rootxnex@gmail.com">
+    <img src="https://img.shields.io/badge/rootxnex@gmail.com-0A1F44?style=for-the-badge&logo=gmail&logoColor=00B8D9&border=00B8D9" />
   </a>
   <a href="https://github.com/rootxnex">
     <img src="https://img.shields.io/badge/github.com/rootxnex-0A1F44?style=for-the-badge&logo=github&logoColor=00B8D9&border=00B8D9" />
