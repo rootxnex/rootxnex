@@ -45,29 +45,36 @@
 
 <h2 align="center">💻 TECH STACK & 🧰 TOOLKIT</h2>
 
+<h2 align="center">💻 STACK & TOOLKIT</h2>
+
 <div align="center">
-  <h4 style="color: #E0E0E0;">LANGUAGES & SCRIPTING</h4>
+  <h4>WEB3 SECURITY</h4>
+  <img src="https://img.shields.io/badge/Solidity-0A1F44?style=for-the-badge&logo=solidity&logoColor=00B8D9" />
+  <img src="https://img.shields.io/badge/Foundry-0A1F44?style=for-the-badge&logoColor=00B8D9" />
+  <img src="https://img.shields.io/badge/Ethereum-0A1F44?style=for-the-badge&logo=ethereum&logoColor=00B8D9" />
+
+  <br><br>
+
+  <h4>ENGINEERING</h4>
   <img src="https://img.shields.io/badge/Python-0A1F44?style=for-the-badge&logo=python&logoColor=00B8D9" />
-  <img src="https://img.shields.io/badge/Java-0A1F44?style=for-the-badge&logo=openjdk&logoColor=00B8D9" />
-  <img src="https://img.shields.io/badge/Dart-0A1F44?style=for-the-badge&logo=dart&logoColor=00B8D9" />
-  <img src="https://img.shields.io/badge/SQL-0A1F44?style=for-the-badge&logo=postgresql&logoColor=00B8D9" />
-  
-  <br><br>
-  <h4 style="color: #E0E0E0;">SECURITY & RECON</h4>
-  <code>NMAP</code> &nbsp;•&nbsp; <code>AMASS</code> &nbsp;•&nbsp; <code>BURP SUITE</code> &nbsp;•&nbsp; <code>SQLMAP</code> &nbsp;•&nbsp; <code>WIRESHARK</code> &nbsp;•&nbsp; <code>METASPLOIT</code>
-  
-  <br><br>
-  <h4 style="color: #E0E0E0;">CLOUD, PLATFORMS & AI</h4>
-  <img src="https://img.shields.io/badge/Google_Cloud-0A1F44?style=for-the-badge&logo=googlecloud&logoColor=00B8D9" />
+  <img src="https://img.shields.io/badge/TypeScript-0A1F44?style=for-the-badge&logo=typescript&logoColor=00B8D9" />
   <img src="https://img.shields.io/badge/Linux-0A1F44?style=for-the-badge&logo=linux&logoColor=00B8D9" />
-  <img src="https://img.shields.io/badge/Parrot_OS-0A1F44?style=for-the-badge&logo=linux&logoColor=00B8D9" />
-  <img src="https://img.shields.io/badge/Android-0A1F44?style=for-the-badge&logo=android&logoColor=00B8D9" />
-  <img src="https://img.shields.io/badge/TensorFlow-0A1F44?style=for-the-badge&logo=tensorflow&logoColor=00B8D9" />
   <img src="https://img.shields.io/badge/Git-0A1F44?style=for-the-badge&logo=git&logoColor=00B8D9" />
+</div>
+  <br><br>
+<h4>SECURITY TOOLS</h4>
+<code>Forge</code> &nbsp;•&nbsp; <code>Anvil</code> &nbsp;•&nbsp; <code>Cast</code> &nbsp;•&nbsp;
+<code>Burp Suite</code> &nbsp;•&nbsp; <code>Nmap</code> &nbsp;•&nbsp; <code>Wireshark</code>
+
+<br><br>
+
+<h4>PLATFORM & AI</h4>
+<img src="https://img.shields.io/badge/Linux-0A1F44?style=for-the-badge&logo=linux&logoColor=00B8D9" />
+<img src="https://img.shields.io/badge/Git-0A1F44?style=for-the-badge&logo=git&logoColor=00B8D9" />
+<img src="https://img.shields.io/badge/Ollama-0A1F44?style=for-the-badge&logoColor=00B8D9" />
 </div>
 
 <br>
-
 <h2 align="center">📊 SYSTEM METRICS</h2>
 
 <div align="center">
@@ -81,16 +88,16 @@
 
 <br>
 
-<h2 align="center">🧬 FUTURE TARGETS</h2>
+<h2 align="center">🧬 Goals</h2>
 
 <div align="left" style="max-width: 400px; margin: 0 auto; padding-left: 20px;">
   <pre>
-[✓] Base Security Foundations
-[ ] Elite bug bounty hunter
-[ ] Red team specialist
-[ ] Security product founder
-[ ] AI-driven cybersecurity tools
-[ ] Cresnex security ecosystem
+- [x] Security foundations  
+- [x] Foundry Web3 lab  
+- [ ] Exploit reproductions  
+- [ ] Audit reports  
+- [ ] Web3 open-source contributions  
+- [ ] Grow Cresnex research  
   </pre>
 </div>
 
