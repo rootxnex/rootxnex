@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <h3><code>Independent Web3 Security Researcher</code> <b>|</b> <code>Smart Contract Auditing Learner</code> <b>|</b> <code>BUILDER</code></h3>
+  <h3><code>Sec Researcher</code> <b>|</b> <code>Smart Contract Auditing Learner</code> <b>|</b> <code>BUILDER</code></h3>
   <p style="color: #E0E0E0"><i>"The best defense is understanding the offense. Think like an attacker. Build like an engineer."</i></p>
 </div>
 
@@ -26,7 +26,7 @@
   <tr>
     <td width="33%" valign="top" style="padding: 15px; border: 1px solid #00B8D9; border-radius: 8px;">
       <h3 align="center" style="color: #00B8D9;">🧠 BACKGROUND</h3>
-      <p><b>Role:</b> Cybersecurity Engineer</p>
+      <p><b>Role:</b> Independent Web3 Security Researcher</p>
       <p><b>Focus:</b> Offensive Security + AI Security Tools</p>
     </td>
     <td width="33%" valign="top" style="padding: 15px; border: 1px solid #00B8D9; border-radius: 8px;">
