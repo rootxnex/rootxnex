@@ -1,119 +1,104 @@
 <div align="center">
-  <a href="https://github.com/rootxnex">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F44&height=120&section=header&text=rootxnex&fontSize=40&fontColor=00B8D9&animation=fadeIn&fontAlignY=35" />
-  </a>
+
+# Dhanushkumar M.
+
+### [@rootxnex](https://github.com/rootxnex) · Founder of Cresnex
+
+**Independent Web3 Security Researcher · Smart Contract Auditing Learner**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00B8D9&center=true&vCenter=true&width=620&lines=Solidity+%26+EVM+Security;DeFi+Protocol+Research;Building+Public+Proof+of+Work" alt="Typing header highlighting Solidity, EVM, and DeFi security research" />
+
+[![Visit Cresnex](https://img.shields.io/badge/Visit_Cresnex-0A1F44?style=for-the-badge&logo=googlechrome&logoColor=00B8D9)](https://cresnex.xyz)
+[![Explore Web3 Security Lab](https://img.shields.io/badge/Web3_Security_Lab-0A1F44?style=for-the-badge&logo=github&logoColor=00B8D9)](https://github.com/rootxnex/web3-security-lab)
+
 </div>
+
+## About Me
+
+I am a security-focused software engineer building public proof of work in Solidity, EVM internals, DeFi security, and defensive engineering. As the founder of [Cresnex](https://cresnex.xyz), I study smart-contract vulnerabilities and blockchain incidents, document what I learn, and develop practical testing skills toward becoming a smart-contract auditor.
+
+All security testing is limited to purpose-built labs, open-source projects, and systems where explicit authorization has been granted. I follow responsible-research and disclosure practices.
+
+## Current Focus
+
+| Area | Current direction |
+| --- | --- |
+| Smart-contract security | Studying Solidity vulnerabilities, EVM behavior, and contract invariants |
+| DeFi protocol security | Understanding protocol architecture, trust assumptions, and economic risk |
+| Blockchain incident analysis | Reproducing and documenting historical exploits in isolated environments |
+| Security engineering | Building repeatable tests, proofs of concept, and defensive recommendations |
+| Open-source contribution | Developing public research and contributing useful security work |
+
+## Featured Work
+
+### [Web3 Security Lab](https://github.com/rootxnex/web3-security-lab)
+
+A growing Foundry workspace for Solidity tests, Forge workflows, local Anvil chains, Cast interactions, vulnerability labs, historical exploit reproductions, and audit-style documentation. The repository is being developed incrementally as a practical record of my learning and research.
+
+### [Cresnex](https://cresnex.xyz)
+
+An independent Web3 security research publication covering smart-contract vulnerabilities, DeFi protocol risks, blockchain incidents and defensive engineering.
+
+## Research Methodology
+
+1. Understand protocol architecture and trust assumptions.
+2. Identify assets, actors, privileges, and invariants.
+3. Map external calls and state transitions.
+4. Build isolated tests and proofs of concept.
+5. Verify impact and assumptions.
+6. Recommend mitigations.
+7. Follow responsible-disclosure requirements.
+
+## Stack and Toolkit
+
+**Primary Web3**
+
+![Solidity](https://img.shields.io/badge/Solidity-0A1F44?style=flat-square&logo=solidity&logoColor=FFFFFF)
+![Foundry](https://img.shields.io/badge/Foundry-0A1F44?style=flat-square&logoColor=00B8D9)
+![Ethereum](https://img.shields.io/badge/Ethereum-0A1F44?style=flat-square&logo=ethereum&logoColor=00B8D9)
+![Git](https://img.shields.io/badge/Git-0A1F44?style=flat-square&logo=git&logoColor=00B8D9)
+![GitHub](https://img.shields.io/badge/GitHub-0A1F44?style=flat-square&logo=github&logoColor=FFFFFF)
+
+`Forge` · `Anvil` · `Cast`
+
+**Engineering:** Python · TypeScript · Linux<br>
+**Supporting security tools:** Burp Suite · Nmap · Wireshark
+
+## Proof-of-Work Roadmap
+
+**Completed**
+
+- [x] Foundry environment installed and verified
+- [x] Local Anvil development chain verified
+- [x] Initial Solidity tests written and passing
+- [x] [`web3-security-lab`](https://github.com/rootxnex/web3-security-lab) published
+
+**In progress / planned**
+
+- [ ] Structured smart-contract vulnerability test suite
+- [ ] Historical DeFi exploit reproductions
+- [ ] Audit-style reports
+- [ ] Competitive audit participation
+- [ ] Valid security findings
+- [ ] Meaningful Web3 open-source contributions
+- [ ] Original smart-contract security tool
+
+## GitHub Activity
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B8D9&center=true&vCenter=true&width=650&lines=Initializing+Security+Console...;Root+Access+Granted;Ethical+Hacker+Mode+Activated;Building+Secure+Systems" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rootxnex&show_icons=true&title_color=00B8D9&text_color=FFFFFF&icon_color=00B8D9&bg_color=0A1F44&hide_border=true&hide_rank=true" alt="Dhanushkumar's GitHub activity statistics" width="480" />
 </div>
 
-<br>
-<div align="center">
-  <img src="https://media.tenor.com/FTJ-5_TLOfMAAAAj/chicken-chicken-bro.gif" width="150" alt="Cyber Chicken">
-</div>
-<br>
+## Connect
 
-<div align="center">
-  <h3><code>OFFENSIVE SECURITY</code> <b>|</b> <code>RED TEAM</code> <b>|</b> <code>BUILDER</code></h3>
-  <p style="color: #E0E0E0"><i>"The best defense is understanding the offense. Think like an attacker. Build like an engineer."</i></p>
-</div>
+[![Cresnex](https://img.shields.io/badge/Cresnex-0A1F44?style=for-the-badge&logo=googlechrome&logoColor=00B8D9)](https://cresnex.xyz)
+[![GitHub](https://img.shields.io/badge/@rootxnex-0A1F44?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/rootxnex)
+[![Email](https://img.shields.io/badge/Email-0A1F44?style=for-the-badge&logo=gmail&logoColor=00B8D9)](mailto:dhanush.kumar.m006@gmail.com)
 
-<br>
-
-<table align="center" width="100%" style="border-collapse: collapse;">. 
-  <tr>
-    <td width="33%" valign="top" style="padding: 15px; border: 1px solid #00B8D9; border-radius: 8px;">
-      <h3 align="center" style="color: #00B8D9;">🧠 BACKGROUND</h3>
-      <p><b>Role:</b> Cybersecurity Engineer</p>
-      <p><b>Focus:</b> Offensive Security + AI Security Tools</p>
-    </td>
-    <td width="33%" valign="top" style="padding: 15px; border: 1px solid #00B8D9; border-radius: 8px;">
-      <h3 align="center" style="color: #00B8D9;">STATUS</h3>
-      <p><b>Mode:</b> Continuous Learning</p>
-      <p><b>Status:</b> Building Elite Skillset</p>
-    </td>
-    <td width="33%" valign="top" style="padding: 15px; border: 1px solid #00B8D9; border-radius: 8px;">
-      <h3 align="center" style="color: #00B8D9;">MISSION</h3>
-      <p align="center"><b>Break → Understand → Secure</b></p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h2 align="center">💻 TECH STACK & 🧰 TOOLKIT</h2>
+---
 
 <div align="center">
-  <h4 style="color: #E0E0E0;">LANGUAGES & SCRIPTING</h4>
-  <img src="https://img.shields.io/badge/Python-0A1F44?style=for-the-badge&logo=python&logoColor=00B8D9" />
-  <img src="https://img.shields.io/badge/Java-0A1F44?style=for-the-badge&logo=openjdk&logoColor=00B8D9" />
-  <img src="https://img.shields.io/badge/Dart-0A1F44?style=for-the-badge&logo=dart&logoColor=00B8D9" />
-  <img src="https://img.shields.io/badge/SQL-0A1F44?style=for-the-badge&logo=postgresql&logoColor=00B8D9" />
-  
-  <br><br>
-  <h4 style="color: #E0E0E0;">SECURITY & RECON</h4>
-  <code>NMAP</code> &nbsp;•&nbsp; <code>AMASS</code> &nbsp;•&nbsp; <code>BURP SUITE</code> &nbsp;•&nbsp; <code>SQLMAP</code> &nbsp;•&nbsp; <code>WIRESHARK</code> &nbsp;•&nbsp; <code>METASPLOIT</code>
-  
-  <br><br>
-  <h4 style="color: #E0E0E0;">CLOUD, PLATFORMS & AI</h4>
-  <img src="https://img.shields.io/badge/Google_Cloud-0A1F44?style=for-the-badge&logo=googlecloud&logoColor=00B8D9" />
-  <img src="https://img.shields.io/badge/Linux-0A1F44?style=for-the-badge&logo=linux&logoColor=00B8D9" />
-  <img src="https://img.shields.io/badge/Parrot_OS-0A1F44?style=for-the-badge&logo=linux&logoColor=00B8D9" />
-  <img src="https://img.shields.io/badge/Android-0A1F44?style=for-the-badge&logo=android&logoColor=00B8D9" />
-  <img src="https://img.shields.io/badge/TensorFlow-0A1F44?style=for-the-badge&logo=tensorflow&logoColor=00B8D9" />
-  <img src="https://img.shields.io/badge/Git-0A1F44?style=for-the-badge&logo=git&logoColor=00B8D9" />
-</div>
 
-<br>
+**Think adversarially. Test responsibly. Document honestly.**
 
-<h2 align="center">📊 SYSTEM METRICS</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootxnex&theme=transparent&hide_border=true&background=0A1F44&ring=00B8D9&fire=00B8D9&currStreakLabel=00B8D9&sideNums=E0E0E0&currStreakNum=E0E0E0&sideLabels=E0E0E0&dates=E0E0E0&stroke=00B8D9" alt="Streak Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rootxnex&show_icons=true&title_color=00B8D9&text_color=E0E0E0&icon_color=00B8D9&bg_color=0A1F44&hide_border=true" alt="GitHub Stats" width="48%"/>
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rootxnex&bg_color=0A1F44&color=00B8D9&line=00B8D9&point=E0E0E0&area=true&hide_border=true&title_color=00B8D9" alt="Activity Graph" width="100%"/>
-</div>
-
-<br>
-
-<h2 align="center">🧬 FUTURE TARGETS</h2>
-
-<div align="left" style="max-width: 400px; margin: 0 auto; padding-left: 20px;">
-  <pre>
-[✓] Base Security Foundations
-[ ] Elite bug bounty hunter
-[ ] Red team specialist
-[ ] Security product founder
-[ ] AI-driven cybersecurity tools
-[ ] Cresnex security ecosystem
-  </pre>
-</div>
-
-<br>
-
-<h2 align="center">📡 CONNECT</h2>
-
-<div align="center">
-  <a href="mailto:dhanush.kumar.m006@gmail.com">
-    <img src="https://img.shields.io/badge/dhanush.kumar.m006@gmail.com-0A1F44?style=for-the-badge&logo=gmail&logoColor=00B8D9&border=00B8D9" />
-  </a>
-  <a href="https://github.com/rootxnex">
-    <img src="https://img.shields.io/badge/github.com/rootxnex-0A1F44?style=for-the-badge&logo=github&logoColor=00B8D9&border=00B8D9" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <p style="color: #00B8D9; padding: 10px; display: inline-block;">
-    <code>> shutting down display... stay ethical.</code>
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F44&height=60&section=footer" />
 </div>
