@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <h3><code>Sec Researcher</code> <b>|</b> <code>Smart Contract Auditing Learner</code> <b>|</b> <code>BUILDER</code></h3>
+  <h3><code>Security Researcher</code> <b>|</b> <code>Smart Contract Auditing Learner</code> <b>|</b> <code>BUILDER</code></h3>
   <p style="color: #E0E0E0"><i>"The best defense is understanding the offense. Think like an attacker. Build like an engineer."</i></p>
 </div>
 
