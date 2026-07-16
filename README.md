@@ -89,6 +89,7 @@
   <pre>
 - [x] Security foundations  
 - [x] Foundry Web3 lab  
+- [X] security research"
 - [ ] Exploit reproductions  
 - [ ] Audit reports  
 - [ ] Web3 open-source contributions  
