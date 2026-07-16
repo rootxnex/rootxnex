@@ -66,7 +66,7 @@
 
 <br><br>
 
-<h4>PLATFORM & AI</h4><img src="https://img.shields.io/badge/Linux-0A1F44?style=for-the-badge&logo=linux&logoColor=00B8D9" /><img src="https://img.shields.io/badge/Git-0A1F44?style=for-the-badge&logo=git&logoColor=00B8D9" /><img src="https://img.shields.io/badge/Ollama-0A1F44?style=for-the-badge&logoColor=00B8D9" />
+<h2 align="center"><h4>PLATFORM & AI</h4><img src="https://img.shields.io/badge/Linux-0A1F44?style=for-the-badge&logo=linux&logoColor=00B8D9" /><img src="https://img.shields.io/badge/Git-0A1F44?style=for-the-badge&logo=git&logoColor=00B8D9" /><img src="https://img.shields.io/badge/Ollama-0A1F44?style=for-the-badge&logoColor=00B8D9" />
 </div>
 
 <br>
